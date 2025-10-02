@@ -1,7 +1,7 @@
 # Terms and Conditions
 
 TERMS OF SERVICE
-Last Updated: 20-09-2025
+Last Updated: 01-10-2025
 ## 1. Acceptance of Terms
 By downloading, installing, or using the HealthCloud mobile application ('App'), you agree to be bound by these Terms of Service ('Terms'). If you do not agree to these Terms, please do not use the App.
 
@@ -88,5 +88,5 @@ Update security measures as needed
 You may stop using the App at any time. Upon termination, your data remains in your iCloud account under your control.
 
 ## 13. Contact Information
-For questions about these Terms or the App, please contact us through the App Store or our official support channels.
+For questions about these Terms or the App, please contact us through the App Store or you can send an email to healthmonitorhelp@gmail.com
 
