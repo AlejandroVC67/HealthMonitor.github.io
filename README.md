@@ -1,12 +1,12 @@
 # Terms and Conditions
 
 TERMS OF SERVICE
-Last Updated: 01-10-2025
+Last Updated: 12-10-2025
 ## 1. Acceptance of Terms
-By downloading, installing, or using the HealthCloud mobile application ('App'), you agree to be bound by these Terms of Service ('Terms'). If you do not agree to these Terms, please do not use the App.
+By downloading, installing, or using the Meddy mobile application ('App'), you agree to be bound by these Terms of Service ('Terms'). If you do not agree to these Terms, please do not use the App.
 
 ## 2. Description of Service
-HealthCloud is a personal medical records management application that allows you to securely store, organize, and manage medical information for yourself and your family members. The App provides features for categorizing medical records by body parts, medical tags, and includes photo and document attachment capabilities.
+Meddy is a personal medical records management application that allows you to securely store, organize, and manage medical information for yourself and your family members. The App provides features for categorizing medical records by body parts, medical tags, and includes photo and document attachment capabilities.
 
 ## 3. Data Storage and Privacy
 Your medical data is stored securely in your personal iCloud account using Apple's CloudKit technology. This means:
@@ -27,7 +27,7 @@ Backing up your data through iCloud
 Using the App in accordance with these Terms
 
 ## 5. Subscription Services
-HealthCloud offers premium subscription services:
+Meddy offers premium subscription services:
 Monthly and yearly subscription options
 Subscriptions are managed through Apple's App Store
 Payment will be charged to your Apple ID account
@@ -38,7 +38,7 @@ Subscription features may change with app updates
 
 ## 6. Medical Disclaimer
 IMPORTANT MEDICAL DISCLAIMER:
-HealthCloud is NOT a medical device or diagnostic tool
+Meddy is NOT a medical device or diagnostic tool
 The App is for personal record-keeping purposes only
 Always consult with qualified healthcare professionals for medical advice
 Do not rely solely on this App for medical decisions
@@ -57,7 +57,7 @@ Interfere with the App's security features
 Use the App in any way that could harm others
 
 ## 8. Intellectual Property
-The HealthMonitor App and its original content, features, and functionality are owned by the developers and are protected by international copyright, trademark, and other intellectual property laws.
+The Meddy App and its original content, features, and functionality are owned by the developers and are protected by international copyright, trademark, and other intellectual property laws.
 
 ## 9. Limitation of Liability
 To the maximum extent permitted by law:
